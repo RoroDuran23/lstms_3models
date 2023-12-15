@@ -9,9 +9,9 @@
 * Assignment: Assignment 4
 
 ## Source Files
-ass4_duran_ownLstmModel.py
-ass4_duran_multiclasslstm.py
-ass4_duran_timeserieslstm.py
+* ass4_duran_ownLstmModel.py
+* ass4_duran_multiclasslstm.py
+* ass4_duran_timeserieslstm.py
 
 ## References
 
